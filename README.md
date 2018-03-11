@@ -24,7 +24,7 @@ NMEA is the US-based [National Marine Electronics Association](https://en.wikipe
 The NMEA2000 (or NMEA2k) protocol is a communication standard for marine equipment like gps receivers, depth sensors, engine control, etc.
 
 Physically, it is based on a CAN bus like infrastructure, very similar to the data bus in automotive vehicles.  
-The protocol itself protected and not open to the community , but there is a broad open source community that tries to rebuild the protocol for broarder use. [Timo Lappalaines library](https://libraries.io/github/ttlappalainen/NMEA2000) for Arduino and Raspberry type boards is a very popular and well documented approach.
+The protocol itself protected and not open to the community , but there is a very active open source community that tries to rebuild the protocol for broarder use. [Timo Lappalaines library](https://libraries.io/github/ttlappalainen/NMEA2000) for Arduino and Raspberry type boards is a very popular and well documented approach.
 
 ## About the Hardware
 
